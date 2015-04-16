@@ -7,4 +7,4 @@ Credits:
 * Inspired by Pietdagamers Dualshot (https://github.com/Pietdagamer/DualShot).
 * Special thanks to Jochem Raat for general help.
 
-This repository is licensed under the Gnu General Public License version 3 or later, for more information see LICENSE file.
+This repository is licensed under the Gnu General Public License version 3 or later, for more information see the LICENSE file.
