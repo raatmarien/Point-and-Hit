@@ -5,6 +5,6 @@ You can download Point & Hit on the Google Play Store: https://play.google.com/s
 Credits:
 * Created by Marien Raat.
 * Inspired by Pietdagamers Dualshot (https://github.com/Pietdagamer/DualShot).
-* Special thanks to Jochem Raat for general help.
+* Special thanks to Jochem Raat.
 
 This repository is licensed under the Gnu General Public License version 3 or later, for more information see the LICENSE file.
