@@ -5,6 +5,9 @@ Point & Hit is a fast-paced tilt-based game. You have to shoot targets before th
 * Tilt the device to aim
 * Tap the screen to shoot
 
+## Download
+[Google Play](https://play.google.com/store/apps/details?id=com.jmstudios.pointandhit.android)
+
 ## Features
 * Addicting fast-paced gameplay
 * Beat the highscore
