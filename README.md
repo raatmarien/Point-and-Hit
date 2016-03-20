@@ -1,10 +1,17 @@
-This is a simple android game made with libgdx (http://libgdx.badlogicgames.com/). The objective is to get an as high score as possible, by destroying the targets. Aim at the targets by tilting your device and shoot by tapping the screen.
+# Point & Hit
+Point & Hit is a fast-paced tilt-based game. You have to shoot targets before they dissapear. It uses [libgdx](https://libgdx.badlogicgames.com/).
 
-You can download Point & Hit on the Google Play Store: https://play.google.com/store/apps/details?id=com.jmstudios.pointandhit.android
+## Controls
+* Tilt the device to aim
+* Tap the screen to shoot
 
-Credits:
-* Created by Marien Raat.
-* Inspired by Pietdagamers Dualshot (https://github.com/Pietdagamer/DualShot).
-* Special thanks to Jochem Raat.
+## Features
+* Addicting fast-paced gameplay
+* Beat the highscore
+* Changing themes as you reach higher scores
+* Fully free and open source
 
+## License
 This repository is licensed under the Gnu General Public License version 3 or later, for more information see the LICENSE file.
+
+I release all assets into the public domain.
