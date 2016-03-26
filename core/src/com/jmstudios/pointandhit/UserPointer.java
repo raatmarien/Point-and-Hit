@@ -127,6 +127,8 @@ public class UserPointer {
 			return 27;
 		case 4:
 			return 33;
+                case 5:
+                        return -25;
 		}
 		return 25;
 	}

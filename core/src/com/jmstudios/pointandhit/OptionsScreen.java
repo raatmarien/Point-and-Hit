@@ -84,10 +84,12 @@ public class OptionsScreen implements Screen
 				, sensitive = newRadioButton("Sensitive")
 				, normal = newRadioButton("Normal")
 				, forgiving = newRadioButton("Forgiving")
-				, veryForgiving = newRadioButton("Very forgiving");
+				, veryForgiving = newRadioButton("Very forgiving")
+                    , invertControls = newRadioButton("Invert the controls");
 		
 		sensitivityGroup = new ButtonGroup<CheckBox>(verySensitive
-				, sensitive, normal, forgiving, veryForgiving);
+                                 , sensitive, normal, forgiving, veryForgiving
+                                 , invertControls);
 		
 		int startSetting = game.preferences.getInteger("sensitivity", 2);
 		sensitivityGroup.uncheckAll();
@@ -127,6 +129,8 @@ public class OptionsScreen implements Screen
 		optionsTable.add(forgiving);
 		optionsTable.row();
 		optionsTable.add(veryForgiving);
+                optionsTable.row();
+                optionsTable.add(invertControls);
 		
 		optionsTable.addListener(new ClickListener() {
 			public void clicked(InputEvent event, float x, float y) {
