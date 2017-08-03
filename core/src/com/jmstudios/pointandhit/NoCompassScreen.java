@@ -34,7 +34,7 @@ public class NoCompassScreen implements Screen {
 	Table table;
 	Label messageLabel;
 	float scale;
-	String text = "You're device doesn't have a compass, which is required to play this game.";
+	String text = "Your device doesn't have a compass, which is required to play this game.";
 	
 	public NoCompassScreen(float scale) {
 		this.scale = scale;
